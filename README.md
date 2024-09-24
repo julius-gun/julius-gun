@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently a student.
+- Student of Robotics, Cognition, Intelligence (M.Sc.) at Technical University of Munich 🤖
 
 <!--
 **julius-gun/julius-gun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
