@@ -1,9 +1,5 @@
 ## Hi, I'm Julius👋
 - Student of Robotics, Cognition, Intelligence (M.Sc.) at Technical University of Munich 🤖
- 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
